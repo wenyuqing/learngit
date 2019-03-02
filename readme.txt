@@ -5,3 +5,5 @@ git tracks changes
 creating a new branch is quick and simple
 new commit
 repair bug
+test the bug manage now
+test test
